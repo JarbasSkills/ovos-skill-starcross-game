@@ -1,1 +1,2 @@
 pyfrotz>=0.1.4
+ovos_workshop>=0.0.5a4

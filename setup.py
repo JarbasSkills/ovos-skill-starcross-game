@@ -17,7 +17,7 @@ DESCRIPTION = "interactive fiction voice game"
 PYPI_NAME = URL.split("/")[-1]  # pip install PYPI_NAME
 
 # Construct entry point for plugin
-SKILL_ID = f"{PYPI_NAME.lower()}.{AUTHOR.lower()}"
+SKILL_ID = "ovos-skill-starcross-game.jarbasai"
 SKILL_PKG = PYPI_NAME.lower().replace('-', '_')
 PLUGIN_ENTRY_POINT = f"{SKILL_ID}={SKILL_PKG}:{SKILL_CLAZZ}"
 

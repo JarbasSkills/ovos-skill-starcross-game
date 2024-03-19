@@ -1,7 +1,7 @@
 {
   "skill_id": "ovos-skill-starcross-game.jarbasai",
   "source": "https://github.com/JarbasSkills/ovos-skill-starcross-game",
-  "package_name": "ovos-skill-starcross",
+  "package_name": "ovos-skill-starcross-game",
   "extra_plugins": {
     "core": [],
     "PHAL": [],

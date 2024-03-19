@@ -1,4 +1,2 @@
-play ( star cross | starcross )
-start ( star cross | starcross )
-i want to play ( star cross | starcross )
-launch star ( star cross | starcross )
+(start|launch|play|frotz) (star cross|starcross)
+let's play (star cross|starcross)

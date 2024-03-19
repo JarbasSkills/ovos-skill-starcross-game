@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-starcross-game.jarbasai",
+  "source": "https://github.com/JarbasSkills/ovos-skill-starcross-game",
+  "package_name": "ovos-skill-starcross",
+  "extra_plugins": {
+    "core": [],
+    "PHAL": [],
+    "listener": [],
+    "audio": [],
+    "media": [],
+    "gui": []
+  },
+  "icon": "http://infocom.elsewhere.org/gallery/starcross/starcross1.jpg",
+  "images": [],
+  "name": "Starcross",
+  "description": "STARCROSS, Infocom's science fiction mind-bender, launches you headlong into the year 2186 and the depths of space.",
+  "examples": [
+    "play star cross",
+    "save game",
+    "exit game"
+  ],
+  "tags": ["game", "adventure", "entertainment"]
+}

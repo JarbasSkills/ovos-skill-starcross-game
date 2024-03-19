@@ -8,7 +8,7 @@ import os
 # Define package information
 SKILL_CLAZZ = "StarCrossSkill"  # Make sure it matches __init__.py class name
 VERSION = "0.1.0"
-URL = "https://github.com/JarbasGameSkills/ovos-skill-starcross"
+URL = "https://github.com/JarbasGameSkills/ovos-skill-starcross-game"
 AUTHOR = "JarbasAi"
 EMAIL = "jarbasai@mailfence.com"
 LICENSE = "Apache2.0"

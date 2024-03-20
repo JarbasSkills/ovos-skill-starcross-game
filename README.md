@@ -30,7 +30,21 @@ Upon docking with the strange craft, you must succeed in gaining entry to its my
     >> 
     
 
+## License and Source code
 
+The source code for starcross can be found [here](https://github.com/historicalsource/starcross).  It is not considered to be under an open license.
+
+As far as I know, Activision have still not declared the games abandonware. 
+
+But I do not believe that it is in the spirit of copyright law that works of art drift into oblivion by unavailability. 
+ 
+The day the games are republished in their old glory, I will gladly remove the files from this repository. Until then, I hope they will be allowed to remain here so you can have fun playing them in a novel way.
+
+## Trivia 
+
+- The original proposal for STARCROSS, "The Ship From The Stars", is located in this directory. It is written by Dave Lebling and dated to November 1981.
+- The source code is derived from ZORK/DUNGEON and therefore has a DUNGEON.ZIL in it, likely to allow easy access to already-established room traversal routines. Earlier versions of the code call it "ZORK SF" game before the final name is chosen.
+- STARCROSS has support for Grues (the darkness-loving dangerous monsters first seen in ZORK/DUNGEON)
 
 ## Examples 
 * "play star cross"
